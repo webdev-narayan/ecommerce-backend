@@ -36,4 +36,4 @@ To set up and run the project locally, follow these steps:
 4. Start the server: `npm start`
 5. Access the backend API at `http://localhost:4500` (or the configured port).
 
-Feel free to explore the codebase, customize it according to your requirements, and contribute to its further development.
+Feel free to explore the codebase, customize it according to your requirements, and contribute to its further development.# ecommerce-backend
